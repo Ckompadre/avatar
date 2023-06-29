@@ -1,0 +1,13 @@
+[gd_scene load_steps=4 format=3 uid="uid://dktg5ysnqwbse"]
+
+[ext_resource type="PackedScene" uid="uid://ndbpohuut47h" path="res://Scenes/furniture.tscn" id="1_mmm3n"]
+[ext_resource type="PackedScene" uid="uid://c7tvratptdr2o" path="res://Scenes/ui.tscn" id="2_dv3fi"]
+[ext_resource type="PackedScene" uid="uid://d3g6y0qak0uc8" path="res://Scenes/models.tscn" id="3_00ibw"]
+
+[node name="Avatar" type="Node"]
+
+[node name="Models" parent="." instance=ExtResource("3_00ibw")]
+
+[node name="Furniture" parent="." instance=ExtResource("1_mmm3n")]
+
+[node name="UI" parent="." instance=ExtResource("2_dv3fi")]

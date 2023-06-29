@@ -1,0 +1,7 @@
+StaticBody3D
+CharacterBody3D
+Panel
+Camera3D
+Sprite3D
+DirectionalLight3D
+Node

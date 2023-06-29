@@ -1,0 +1,15 @@
+2a60927148abd1d33b818b535e306557
+::res://::1688058009
+icon.svg::CompressedTexture2D::8165977089652471749::1688042489::1688042495::1::::<><>::
+::res://Assets/::1688043065
+background.jpg::CompressedTexture2D::2258354261692300456::1688043056::1688043065::1::::<><>::
+::res://Models/::1688044280
+Monkey.obj::Mesh::8677333930759119350::1688044279::1688044280::1::::<><>::
+::res://Scenes/::1688051434
+avatar.tscn::PackedScene::7900792829540299708::1688051433::0::1::::<><>::uid://ndbpohuut47h<>uid://c7tvratptdr2o<>uid://d3g6y0qak0uc8
+furniture.tscn::PackedScene::918736351534689747::1688050529::0::1::::<><>::uid://7f71abmdwg4w
+models.tscn::PackedScene::9138862363113039901::1688051434::0::1::::<><>::uid://dvvmol538s24q<>res://Scripts/change.gd<>res://Scripts/rotate.gd
+ui.tscn::PackedScene::7059412986533197264::1688050380::0::1::::<><>::
+::res://Scripts/::1688051430
+change.gd::GDScript::-1::1688051430::0::1::::<>Node3D<>::
+rotate.gd::GDScript::-1::1688050275::0::1::::<>MeshInstance3D<>::
